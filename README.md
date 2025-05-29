@@ -2,6 +2,13 @@
 📌 Proje Açıklaması
 Bu proje, modern HTML5 ve CSS3 teknolojileri kullanılarak geliştirilmiş tamamen duyarlı (responsive) bir seyahat acentesi websitesidir. Temiz bir tasarıma sahip olup, tüm cihaz boyutlarında (masaüstü, tablet, mobil) kusursuz görüntülenebilir.
 
+📷 Ekran Görüntüleri
+
+
+![Document-Kii1-MicrosoftEdge2025-05-2021-01-08-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0581dbcb-c623-4279-95b9-152381c288be)
+
+
+
 ✨ Öne Çıkan Özellikler
 Tamamen Responsive Tasarım: Flexbox ve medya sorguları ile oluşturuldu
 
@@ -58,12 +65,6 @@ Kurulum gerektirmez. Basitçe:
 Depoyu klonlayın veya indirin
 
 index.html dosyasını tarayıcıda açın
-
-📷 Ekran Görüntüleri
-
-
-![Document-Kii1-MicrosoftEdge2025-05-2021-01-08-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0581dbcb-c623-4279-95b9-152381c288be)
-
 
 
 💻 Teknik Detaylar
